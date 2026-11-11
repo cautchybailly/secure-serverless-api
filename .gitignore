@@ -1,0 +1,12 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+!*.tfvars.example
+*.zip
+build/
+layers/
+__pycache__/
+out.json
+.env
